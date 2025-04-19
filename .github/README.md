@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgur.com/Z4q9ovH.jpeg"  />
+<img align="right" height="250" src="https://i.imgur.com/Z4q9ovH.jpeg"  />
 
 ###
 
@@ -53,14 +53,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/06navdeep06/06navdeep06/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/wyvuy3w2eow8rzs24qh84phny">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wyvuy3w2eow8rzs24qh84phny&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/06navdeep06/06navdeep06/output/snake.svg" alt="Snake animation" />
 
 ###
