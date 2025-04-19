@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate PacMan Animation
 
 on:
   schedule:
@@ -10,8 +10,6 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -19,21 +17,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          animate: true   # This will enable the animation
 
       - name: Create output branch if it doesn't exist
         run: |
           git checkout --orphan output || git checkout output
           git rm -rf .
-        continue-on-error: true  # This prevents failing if branch already exists
+        continue-on-error: true
 
       - name: Commit and push pacman-contribution-graph.svg to the output branch
         run: |
           git add pacman-contribution-graph.svg
-          git commit -m "Update pacman contribution graph"
+          git commit -m "Update animated pacman contribution graph"
           git push --set-upstream origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
