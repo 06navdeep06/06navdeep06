@@ -61,6 +61,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/06navdeep06/06navdeep06/output/snake.svg" alt="Snake animation" />
 
 ###
