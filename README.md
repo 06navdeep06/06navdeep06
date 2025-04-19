@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! I am Navdeep<br>🐍 Python developer turning complex data into real-world solutions.<br>📊 Fluent in Pandas, NumPy, Matplotlib, and Scikit-learn.<br>🤖 Building intelligent systems with TensorFlow & PyTorch.<br>🌐 Merging backend logic with modern JavaScript frameworks.<br>🚀 Passionate about scalable APIs, clean code, and solving tough problems.</h2>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=06navdeeo06&theme=tokyo-night)
 
 ###
 
