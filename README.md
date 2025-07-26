@@ -12,6 +12,6 @@ Hi, I'm Navdeep 👋<br><br>Python developer focused on turning data into real-w
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=06navdeep06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=06navdeep06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=06navdeep06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
