@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Navdeep 👋<br><br>Python developer focused on turning data into real-world solutions.  <br>Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.  <br>I enjoy building intelligent systems, scalable APIs, and integrating backend<br>logic with modern JavaScript frameworks.<br>
+Hi, I'm Navdeep 👋<br><br>Python Developer.  <br>Skilled in Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.  <br>I enjoy building intelligent systems, scalable APIs, and integrating backend<br>logic with modern JavaScript frameworks.<br>
 
 
 ## 🌐 Socials:
