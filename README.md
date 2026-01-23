@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Navdeep — a Python developer.
+Hi, I’m Navdeep — a Python developer.<br>
 I work with data, ML, and backend systems using Pandas, NumPy, scikit-learn, TensorFlow, and PyTorch.s<br>
 
 
